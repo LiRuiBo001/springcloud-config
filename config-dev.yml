@@ -1,2 +1,2 @@
-config-info:
-  11111
+config:
+  info: main springcloud-config config-dev.yml version 1
